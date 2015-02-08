@@ -1,0 +1,11 @@
+--- osmc-installer-1/src/osmcinstaller.desktop~	2014-11-18 07:32:05.000000000 +0200
++++ osmc-installer-1/src/osmcinstaller.desktop	2015-02-08 17:47:46.239852612 +0200
+@@ -1,6 +1,6 @@
+ [Desktop Entry]
+ Name=OSMC Installer
+-Exec=/usr/share/osmc/osmcinstaller
+-Icon=/usr/share/osmc/icon.png
++Exec=osmcinstaller
++Icon=osmcinstaller
+ Type=Application
+ Categories=AudioVideo;Video;Player;TV;
