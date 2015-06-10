@@ -2,9 +2,10 @@
 Summary:	OSMC Installer for Linux
 Name:		osmc-installer
 Version:	1
-Release:	42.1
+Release:	111.1
 License:	GPL v2
 Group:		Applications/Multimedia
+# extracted from http://download.opensuse.org/repositories/home:/osmc/Fedora_21/src/osmc-installer-1-111.1.src.rpm
 Source0:	src.tar.gz
 # Source0-md5:	b475aa2540255265f682a14cf16dbc72
 Patch0:		desktop.patch
