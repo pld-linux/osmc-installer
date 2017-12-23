@@ -2,14 +2,14 @@
 Summary:	OSMC Installer for Linux
 Name:		osmc-installer
 Version:	1
-Release:	111.1
+Release:	127.3
 License:	GPL v2
 Group:		Applications/Multimedia
-# extracted from http://download.opensuse.org/repositories/home:/osmc/Fedora_21/src/osmc-installer-1-111.1.src.rpm
-Source0:	src.tar.gz
-# Source0-md5:	b475aa2540255265f682a14cf16dbc72
+# extracted from https://download.opensuse.org/repositories/home:/osmc/CentOS_7/src/osmc-installer-1-127.3.src.rpm
+Source0:	%{name}-%{version}-%{release}.tar.gz
+# Source0-md5:	96e5184fb1c255f406094df4b4657d67
 Patch0:		desktop.patch
-URL:		https://github.com/samnazarko/osmc
+URL:		https://github.com/osmc/osmc
 BuildRequires:	QtCore-devel
 BuildRequires:	desktop-file-utils
 BuildRequires:	libstdc++-devel
