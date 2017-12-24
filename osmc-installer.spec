@@ -1,4 +1,3 @@
-%define osmc_name qt_host_installer
 Summary:	OSMC Installer for Linux
 Name:		osmc-installer
 Version:	1
