@@ -11,6 +11,8 @@ Source0:	%{name}-%{version}-%{release}.tar.gz
 Patch0:		desktop.patch
 URL:		https://github.com/osmc/osmc
 BuildRequires:	QtCore-devel
+BuildRequires:	QtGui-devel
+BuildRequires:	QtNetwork-devel
 BuildRequires:	desktop-file-utils
 BuildRequires:	libstdc++-devel
 BuildRequires:	qt4-build
