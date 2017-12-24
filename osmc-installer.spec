@@ -6,7 +6,7 @@ Release:	127.3
 License:	GPL v2
 Group:		Applications/Multimedia
 # extracted from https://download.opensuse.org/repositories/home:/osmc/CentOS_7/src/osmc-installer-1-127.3.src.rpm
-Source0:	%{name}-%{version}-%{release}.tar.gz
+Source0:	%{name}-%{version}-127.3.tar.gz
 # Source0-md5:	96e5184fb1c255f406094df4b4657d67
 Patch0:		desktop.patch
 URL:		https://github.com/osmc/osmc
