@@ -24,7 +24,7 @@ OSMC Installer allows you to install OSMC on a variety of devices.
 
 %prep
 %setup -qc
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 cd src
